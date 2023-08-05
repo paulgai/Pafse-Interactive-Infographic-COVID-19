@@ -3237,7 +3237,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: cdbf24bdff2f10d49985fe3ab8832ace, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  language: 1
+  language: 0
   Congrats: {fileID: 412078940}
   ReloadButton: {fileID: 2030584455}
 --- !u!1001 &1410386858
@@ -4422,6 +4422,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 4f231c4fb786f3946a6b90b886c48677, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  m_SendPointerHoverToParent: 1
   m_HorizontalAxis: Horizontal
   m_VerticalAxis: Vertical
   m_SubmitButton: Submit
